@@ -1,0 +1,174 @@
+{  
+
+"product" : [
+
+{
+"id": 1,
+"title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+"price": 109.95,
+"category": "men's clothing",
+"image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+},
+{
+"id": 2,
+"title": "Mens Casual Premium Slim Fit T-Shirts ",
+"price": 22.3,
+"category": "men's clothing",
+"image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+
+},
+{
+"id": 3,
+"title": "Mens Cotton Jacket",
+"price": 55.99,
+"category": "men's clothing",
+"image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+
+},
+{
+"id": 4,
+"title": "Mens Casual Slim Fit",
+"price": 15.99,
+"category": "men's clothing",
+"image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+
+},
+{
+"id": 5,
+"title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+"price": 695,
+"category": "jewelery",
+"image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+
+}
+
+
+
+],
+
+    "devs"  : [
+
+        {
+        "id"        : 1,
+        "name"      : "Ridoy",
+        "age"       : "21",
+        "skill"     : "wordpress expert",
+        "location"  : "Raozan",
+        "photo"     : "https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/241565654_1254765044995284_6263592134673928335_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_eui2=AeF5mNIHJRVghhybJjdK68MkxEpISiBRLrHESkhKIFEusd56-CoxNVvq4Z_Nec2Q1UfzYHB8XZTGrW9TNTL3Xapv&_nc_ohc=mqk6kuKtHAMAX-mAXhs&_nc_ht=scontent.fdac144-1.fna&oh=00_AT_RxOVkA7axQEYR58Cb-6_GQl6in95sj9PDyLhOwh1djw&oe=620ED0F8"
+
+
+        },
+        {
+        "id"        : 2,
+        "name"      : "saimon",
+        "age"       : "21",
+        "skill"     : "java develoer",
+        "location"  : "Raozan",
+        "photo"     : "https://scontent.fdac144-1.fna.fbcdn.net/v/t1.6435-9/185737684_541201653709595_5441997436156529868_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEU64ToC_sx_qduqIucGoUo2Vb5MuZwKVXZVvky5nApVe04n1Q90H_2v3prFMA5XDxFA6Z_IVfQImsRyXwWq-L5&_nc_ohc=iFbzFk4Qd98AX-8uutX&_nc_ht=scontent.fdac144-1.fna&oh=00_AT_u0cWtHS4KIXx96pt03D51_xpMnJ6MskHzF-ytdAdjlQ&oe=62308C2E"
+
+
+        },
+        {
+            "id"        : 3,
+            "name"      : "omor",
+            "age"       : "21",
+            "skill"     : "Php developer",
+            "location"  : "Raozan",
+            "photo"     : "https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/273161946_967078104201312_9085850428165922928_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEP5ji2muE3KZAqcB50mh0J1A_P_pZ7lzfUD8_-lnuXN510NTVqnc0R6ygv9pIuM-cdJw9Lv2eOaPNZwQtD5nNo&_nc_ohc=1dsZRaAhQUYAX_uZyWe&_nc_ht=scontent.fdac144-1.fna&oh=00_AT_3LrY_8zGTS76iAxQs1O2Ut8Id31pjGeR5_PgmRoLL_A&oe=620F16C8"
+    
+    
+            },
+            {
+                "id"        : 4,
+                "name"      : "tabassum",
+                "age"       : "18",
+                "skill"     : "laravel developer",
+                "location"  : "boyalkhali",
+                "photo"     : "https://scontent.fdac144-1.fna.fbcdn.net/v/t1.6435-9/200573534_357509655737485_8747246114457733443_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFp_bTNBn1BqHkAm6w-YcdkBb3t8zhsDo0Fve3zOGwOjf8_yRVogTe44q9eaCLuoq5lvgs4EiBlp5USrDIT4ziN&_nc_ohc=V7XzTw-526QAX8yXQzU&_nc_ht=scontent.fdac144-1.fna&oh=00_AT8l9Fe9fAF-_icMzxorFsNCl4SFlk9SOMYVuM7e7ggfXA&oe=6231222E"
+        
+        
+                },
+                {
+                    "id"        : 5,
+                    "name"      : "nasir",
+                    "age"       : "22",
+                    "skill"     : "phython developer",
+                    "location"  : "raozan",
+                    "photo"     : "https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/269724483_1186545118538215_7167077315422783198_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHYrIhipUVzYpQkTcsbNW-Z996Az3MAwMb33oDPcwDAxgkfUIxQtdYeEQwkkJ58YYVHsPTsCB4KAWOU1JqWJ-up&_nc_ohc=ODifORZiQg0AX8BMHMA&_nc_ht=scontent.fdac144-1.fna&oh=00_AT_19XbyFfJtg20Ho0MudEcGMuHb2ECBAigdzneiXxKzeQ&oe=620FB1BB"
+            
+            
+                }
+
+    ],
+
+    "student" :[
+
+        {
+         "id"        : 1,
+         "name"      : "samin",
+         "roll"       : "05",
+         "class"     : "09",
+         "location"  : "fokirhat",
+         "photo"     : "https://www.assignnmentinneed.com/wp-content/uploads/2020/10/successful-college-student-lg.png"
+      
+        },
+        {
+            "id"        : 2,
+            "name"      : "riyad",
+            "roll"       : "09",
+            "class"     : "10",
+            "location"  : "hingola",
+            "photo"     : "https://i2.wp.com/rollercoasteryears.com/wp-content/uploads/Thrive-During-Finals-.jpg?fit=1000%2C667&ssl=1"
+         
+           },
+           {
+            "id"        : 3,
+            "name"      : "sabbir",
+            "roll"       : "11",
+            "class"     : "8",
+            "location"  : "sottopara",
+            "photo"     : "https://media.istockphoto.com/photos/happy-student-with-books-looking-at-camera-in-library-picture-id1161151670?k=20&m=1161151670&s=612x612&w=0&h=rkCsTf9Gl77NoZzZp0Hcu-Umd1twcOiePvGOqkGPPaY="
+         
+           },
+           {
+            "id"        : 4,
+            "name"      : "tamim",
+            "roll"       : "15",
+            "class"     : "6",
+            "location"  : "modolmohol",
+            "photo"     : "https://insight.study.csu.edu.au/wp-content/uploads/2018/11/Insight-GS-Ace-Scholarship-Ap.jpg"
+         
+           },
+           {
+            "id"        : 5,
+            "name"      : "labib",
+            "roll"       : "23",
+            "class"     : "7",
+            "location"  : "monsirghata",
+            "photo"     : "https://www.adelaide.edu.au/give/sites/default/files/styles/ua_landscape/public/media/images/2019-05/Andrew%20Groch_resized.jpg?h=fbf4b26c&itok=G80a4qkr"
+         
+           }
+   
+
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

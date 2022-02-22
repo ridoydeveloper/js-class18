@@ -4,7 +4,7 @@
   "description": "this is devs info ",
   "main": "index.js",
   "scripts": {
-    "ridoy"   : "json-server --watch db.json --port 1010"
+    "ridoy"   : "json-server --watch db.json 5050"
   },
   "author": "ridoy",
   "license": "ISC",

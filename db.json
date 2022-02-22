@@ -51,6 +51,8 @@
         {
         "id"        : 1,
         "name"      : "Ridoy",
+        "email"     : "mgadfsajd@gmail.com",
+        "call"      : "018122323232",
         "age"       : "21",
         "skill"     : "wordpress expert",
         "location"  : "Raozan",
@@ -61,6 +63,8 @@
         {
         "id"        : 2,
         "name"      : "saimon",
+        "email"     : "asdfsdfsd@gmail.com",
+        "call"      : "018124522232",
         "age"       : "21",
         "skill"     : "java develoer",
         "location"  : "Raozan",
@@ -71,6 +75,8 @@
         {
             "id"        : 3,
             "name"      : "omor",
+            "email"     : "mghavaghajd@gmail.com",
+            "call"      : "018979078678",
             "age"       : "21",
             "skill"     : "Php developer",
             "location"  : "Raozan",
@@ -81,6 +87,8 @@
             {
                 "id"        : 4,
                 "name"      : "tabassum",
+                "email"     : "afkljvnrggv@gmail.com",
+                "call"      : "01813198134",
                 "age"       : "18",
                 "skill"     : "laravel developer",
                 "location"  : "boyalkhali",
@@ -91,6 +99,8 @@
                 {
                     "id"        : 5,
                     "name"      : "nasir",
+                    "email"     : "mgfnvrgfj@gmail.com",
+                    "call"      : "01dcnjkehfa",
                     "age"       : "22",
                     "skill"     : "phython developer",
                     "location"  : "raozan",
@@ -151,21 +161,6 @@
    
 
     ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
